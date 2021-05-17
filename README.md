@@ -7,8 +7,8 @@ Geração de rede neural tradutora a partir de modelo de Transformer, tendo como
 Para executar:
 
 ```
-1. baixar o arquivo notebook (extensão .ipynb)
-2. fazer upload desse arquivo para um diretório no Google Drive
+1. Baixar o arquivo notebook (extensão .ipynb)
+2. Fazer upload desse arquivo para um diretório no Google Drive
 3. Abrir o arquivo .ipynb com a ferramenta Google Colab
 4. Executar as células de código
 ```
